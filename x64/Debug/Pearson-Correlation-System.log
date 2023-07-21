@@ -1,0 +1,4 @@
+﻿  Pearson-Correlation-System.cpp
+C:\Projects\Pearson-Correlation-System\Pearson-Correlation-System.cpp(28,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Projects\Pearson-Correlation-System\Pearson-Correlation-System.cpp(28,16): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  Pearson-Correlation-System.vcxproj -> C:\Projects\Pearson-Correlation-System\x64\Debug\Pearson-Correlation-System.exe

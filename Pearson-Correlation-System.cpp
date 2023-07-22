@@ -100,6 +100,11 @@ start
                 cout << "Not Correlated\n";
             cout << "@: ";
             getline(cin, done);
+	    if(done == "exit")
+	    {
+		    cls;
+		    break;
+	    }
             cls;
         }
 
